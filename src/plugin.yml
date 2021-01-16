@@ -1,0 +1,7 @@
+name: QuickDeposit
+version: 1.0
+author: Cheesewheel123
+main: me.cheesewheel123.QuickDeposit.Main
+permissions: 
+  quickdeposit.use:
+    default: true
